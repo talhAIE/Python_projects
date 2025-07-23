@@ -15,7 +15,7 @@ This is a simple **To-Do List App** built using Python and the `FreeSimpleGUI` (
 Here’s how the app looks:
 
 ### 🧾 Add and Edit Tasks
-![Add/Edit To-Do](/screenshots/addeditt.png)
+![Add/Edit To-Do](./screenshots/addeditt.png)
 
 ---
 
