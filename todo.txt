@@ -1,4 +1,0 @@
-Learn python
-learn langchain
-learn agentic Ai
-
